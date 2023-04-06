@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=FFFFFF&lines=Hi+there!+I'm+Hans+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=000000&lines=Hi+there!+I'm+Hans+🚀" />
+</picture>
+
 # Hi there! I'm Hans! 👋
 
 <div style="color:white">
