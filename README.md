@@ -2,8 +2,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=FFFFFF&lines=Hi+there!+I'm+Hans+🚀" />
   <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=000000&lines=Hi+there!+I'm+Hans+🚀" />
 </picture>
-
 <div style="color:white">
+
 ### Introduction
 I'm a university freshman currently majoring in Computer Science in Singapore. I'm in the process of reorganising my portfolio, which includes projects and code samples that I've worked on.
 
