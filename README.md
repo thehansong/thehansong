@@ -5,7 +5,7 @@
 <div style="color:white">
 
 ### Introduction
-I'm a university freshman currently majoring in Computer Science in Singapore. I'm in the process of reorganising my portfolio, which includes projects and code samples that I've worked on.
+I'm a university undergrad currently majoring in Computer Science in Singapore. I'm in the process of reorganising my portfolio, which includes projects and code samples that I've worked on.
 
 ### My Skills and Interests
 I'm passionate about computer science and always looking to improve my skills. I have experience in data analytics, database management, and game development. In my free time, I enjoy tinkering with new technologies and experimenting with different programming languages.
