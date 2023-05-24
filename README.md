@@ -5,7 +5,7 @@
 <div style="color:white">
 
 ### Introduction
-I'm a university undergrad currently majoring in Computer Science in Singapore. [I'm in the process of reorganising my portfolio,] which includes projects and code samples that I've worked on. Check back soon!
+I'm a university undergrad from Singapore and currently majoring in Computer Science with a specialisation in Computer Graphics. I'm in the process of reorganising my portfolio, which includes projects and code samples that I've worked on. Check back soon!
 
 ### My Skills and Interests
 I'm passionate about computer science and always looking to improve my skills. I have experience in data analytics, database management, and game development. In my free time, I enjoy delving into the intricacies of UI/UX design and exploring how human psychology influences the perception of a product's UI/UX. Additionally, I relish the opportunity to experiment with novel technologies and programming languages, channeling my creativity to bring these ideas to life.
