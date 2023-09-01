@@ -12,6 +12,4 @@ I'm passionate about computer science and always looking to improve my skills. I
 
 ### What You'll Find in My Portfolio
 I'm excited to share my work with you. Stay tuned for updates on my portfolio!
-
 </div>
-github.com/thehansong
