@@ -1,20 +1,28 @@
-name: Update badges from Credly
+name: Update Badges from Credly
 
+# Controls when the action will run. 
 on:
-  workflow_dispatch:
+  workflow_dispatch:         # Able to manually run this workflow from the "Actions" tab
   schedule:
-    - cron: "0 16 * * *"  # Midnight, Singapore time UTC+8
-  pull_request:
+    - cron: "0 16 * * *"     # Runs at midnight Singapore time: (00:00 SGT, which is 16:00 UTC)
+  pull_request:              # Triggered on pull requests
 
+# Jobs to be executed
 jobs:
   update-readme:
-    name: Update Readme with badges from credly
-    runs-on: ubuntu-latest
+    name: Update README with Credly Badges
+    runs-on: ubuntu-latest   # The runner environment
+
     steps:
-      - name: Update Readme with badges from credly
+      # Checkout the repository to the runner
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      # Update README with the latest badges from Credly
+      - name: Update README with Badges from Credly
         uses: pemtajo/badge-readme@2.4.0
         with:
-          GH_TOKEN: ${{ secrets.CREDLY_BADGES_GH_TOKEN }}
-          COMMIT_MESSAGE: "Update badges from credly"
-          CREDLY_USER: thehansong
-          CREDLY_SORT: RECENT
+          GH_TOKEN: ${{ secrets.CREDLY_BADGES_GH_TOKEN }}           # Secret GitHub Token for authentication
+          COMMIT_MESSAGE: "Update README with latest Credly Badges" # Commit message when the README is updated
+          CREDLY_USER: thehansong                                   # Credly user name
+          CREDLY_SORT: RECENT                                       # Sort badges based on Recency
