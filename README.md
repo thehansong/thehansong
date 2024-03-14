@@ -4,6 +4,8 @@
 </picture>
 <div style="color:white">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thehansong" alt="thehansong" /> </p>
+
 # Introduction
 I'm a university undergrad from Singapore and currently majoring in Computer Science with a specialisation in Computer Graphics. [I'm in the process of reorganising my portfolio,](https://github.com/thehansong) which includes projects and code samples that I've worked on. Check back soon!
 
