@@ -16,6 +16,6 @@ I'm excited to share my work with you. Stay tuned for updates on my portfolio!
 
 <!--START_SECTION:badges-->
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/899208a2-c8d1-404c-bb80-7aeb47ae4384 "Google Data Analytics Professional Certificate")
-[![Microsoft Office Specialist: Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/4b87cfe7-d28a-4236-b82b-ebe302fb10b1 "Microsoft Office Specialist: Excel (Office 2016)")
 [![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](http://www.credly.com/badges/ab55d8c4-ae59-40b0-bce4-5fca203ec940 "Google IT Automation with Python Professional Certificate")
+[![Microsoft Office Specialist: Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/4b87cfe7-d28a-4236-b82b-ebe302fb10b1 "Microsoft Office Specialist: Excel (Office 2016)")
 <!--END_SECTION:badges-->
