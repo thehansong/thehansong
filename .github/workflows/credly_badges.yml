@@ -1,4 +1,4 @@
-name: Update badges from credly
+name: Update badges from Credly
 
 on:
   workflow_dispatch:
@@ -17,4 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.CREDLY_BADGES_GH_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"
           CREDLY_USER: thehansong
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
