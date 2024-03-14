@@ -14,7 +14,7 @@ jobs:
       - name: Update Readme with badges from credly
         uses: pemtajo/badge-readme@2.4.0
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ SECRET_GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"
-          CREDLY_USER: engin-diri
+          CREDLY_USER: thehansong
           CREDLY_SORT: POPULAR
