@@ -26,5 +26,5 @@ jobs:
           COMMIT_MESSAGE: "Update README with latest Credly Badges" # Commit message when the README is updated
           CREDLY_USER: thehansong                                   # Credly user name
           CREDLY_SORT: RECENT                                       # Sort badges based on Recency
-          BADGE_SIZE: 220                                            # Badge width, height
+          BADGE_SIZE: 110                                           # Badge width, height
           NUMBER_LAST_BADGES: 10                                    # Show only the 10 most recently earned badges          
