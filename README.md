@@ -11,8 +11,8 @@ As I approach graduation, I am actively seeking credit-bearing internship opport
 
 ## 🛠️ Recent Projects
 
-- **[March of the Meows](https://github.com/GAM200L1)** - A 2D turn-based strategy game built on a custom game engine by an 8-member team over 6 months. Players control Sir Meowsalot, defending Meowsville by rescuing cats and using teamwork to defeat the rat king!
-- **[NeuroTune](https://github.com/thehansong/NeuroTune)** - An AI-driven aim trainer developed to enhance FPS gaming skills through real-time adaptivity.
+- **[March of the Meows](https://github.com/GAM200L1)** is a 2D turn-based strategy game developed from the ground up by an eight-member team using our proprietary C++ game engine. Players control Sir Meowsalot, defending Meowsville by rescuing cats and using teamwork to defeat the rat king!
+- **[NeuroTune](https://github.com/thehansong/NeuroTune)** is an AI-driven aim trainer developed to enhance FPS gaming skills through real-time adaptivity.
 
 ## 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
