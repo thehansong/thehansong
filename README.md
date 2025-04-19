@@ -5,7 +5,7 @@
 <div style="color:white">
 
 # 👋 Introduction
-I'm Hans, a Final-year Computer Science student pursuing a joint degree from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/undergraduate-programmes/computer-science-real-time-interactive-simulation) and [DigiPen Institute of Technology](https://www.digipen.edu.sg/academics/computer-science-degrees/bs-in-computer-science-in-real-time-interactive-simulation).
+I'm Hans, a final-year Computer Science student pursuing a joint degree from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/undergraduate-programmes/computer-science-real-time-interactive-simulation) and [DigiPen Institute of Technology](https://www.digipen.edu.sg/academics/computer-science-degrees/bs-in-computer-science-in-real-time-interactive-simulation).
 
 ## 🛠️ Recent Projects
 
