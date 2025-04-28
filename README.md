@@ -5,7 +5,7 @@
 <div style="color:white">
 
 # 👋 Introduction
-I'm Hans, a final-year Computer Science student pursuing a joint degree from the [Singapore Institute of Technology](https://www.singaporetech.edu.sg/undergraduate-programmes/computer-science-real-time-interactive-simulation) and [DigiPen Institute of Technology](https://www.digipen.edu.sg/academics/computer-science-degrees/bs-in-computer-science-in-real-time-interactive-simulation).
+Hi I'm Hans! I am a final-year Computer Science student pursuing a joint-degree at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/undergraduate-programmes/computer-science-real-time-interactive-simulation) and [DigiPen Institute of Technology](https://www.digipen.edu.sg/academics/computer-science-degrees/bs-in-computer-science-in-real-time-interactive-simulation) graduating in April 2026!
 
 ## 🛠️ Recent Projects
 
@@ -34,8 +34,6 @@ I'm Hans, a final-year Computer Science student pursuing a joint degree from the
 Find all my certifications on [Credly](https://www.credly.com/users/thehansong/badges).
 
 ## 📬 Let's Connect!
-I am always open to discussing my projects and potential opportunities. If you're interested in my work or believe I could be a good fit for your team, please reach out!
-
 <p align="center">
   <a href="http://thehansong.com">
     <img src="https://img.shields.io/badge/-Visit%20My%20Website-blue?style=for-the-badge&logo=firefox-browser&logoColor=white&border_radius=6" alt="Visit My Website">
