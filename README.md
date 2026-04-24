@@ -5,7 +5,7 @@
 <div style="color:white">
 
 # 👋 Introduction
-Hi I'm Hans! I am a final-year Computer Science student pursuing a joint-degree at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/undergraduate-programmes/computer-science-real-time-interactive-simulation) and [DigiPen Institute of Technology](https://www.digipen.edu.sg/academics/computer-science-degrees/bs-in-computer-science-in-real-time-interactive-simulation) graduating in April 2026!
+Hi I'm Hans! These days, I'm working on AI and software engineering.
 
 ## 🛠️ Recent Projects
 
