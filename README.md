@@ -9,6 +9,6 @@ I’m an AI Engineer in Singapore. I love building AI products from the ground u
 
 ## 🚀 Featured Projects
 
-- **[Devin Handoff](https://github.com/club-cog/devin-handoff)** — Hand off tasks from Claude Code, Codex, Cursor, and other coding agents to Devin by Cognition, carrying context and local work along.
+- **[Devin Handoff](https://github.com/club-cog/devin-handoff)** — If you love using Devin + Codex/Claude Code, this skill/plugin allows you to handoff tasks from Claude Code, Codex, Cursor, and other coding agents to Devin by Cognition, carrying context and local work along.
 - **[Oobee](https://github.com/GovTechSG/oobee)** — An accessibility testing tool I worked on during my time as an engineer at GovTech Singapore, helping teams find and fix web accessibility issues.
 - **[Service Status Page](https://github.com/thehansong/service-status-page)** — A personal project where I experimented with FastAPI and service monitoring.
