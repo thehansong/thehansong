@@ -1,26 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=FFFFFF&lines=Hi+there!+I'm+Hans+🚀" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=000000&lines=Hi+there!+I'm+Hans+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&color=000000&lines=Hi+there!+I'm+Hans+🚀" alt="Hi there! I'm Hans" />
 </picture>
-<div style="color:white">
 
-# 👋 Introduction
-Hi I'm Hans! These days, I'm working on AI and software engineering.
+## 👋 Introduction
 
-## 🛠️ Recent Projects
+I’m an AI Engineer in Singapore. I love building AI products from the ground up, exploring what’s possible with frontier technology, and making things that have a real impact. Before AI, I was a game developer.
 
-- **[March of the Meows](https://github.com/GAM200L1)** is a 2D turn-based strategy game developed from the ground up by an eight-member team using our proprietary C++ game engine. Players control Sir Meowsalot, defending Meowsville by rescuing cats and using teamwork to defeat the rat king!
-- **[NeuroTune](https://github.com/thehansong/NeuroTune)** is an AI-driven aim trainer developed to enhance FPS gaming skills through real-time adaptivity.
+## 🚀 Featured Projects
 
-## 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- **[Devin Handoff](https://github.com/club-cog/devin-handoff)** — Hand off tasks from Claude Code, Codex, Cursor, and other coding agents to Devin by Cognition, carrying context and local work along.
+- **[Oobee](https://github.com/GovTechSG/oobee)** — An accessibility testing tool I worked on during my time as an engineer at GovTech Singapore, helping teams find and fix web accessibility issues.
+- **[Service Status Page](https://github.com/thehansong/service-status-page)** — A personal project where I experimented with FastAPI and service monitoring.
